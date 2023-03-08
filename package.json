@@ -524,6 +524,7 @@
       {
         "language": "edge",
         "path": "./snippets/frameworks/edge.json"
+<<<<<<< HEAD
       },
       {
         "language": ["powershell", "ps1"],
@@ -542,7 +543,6 @@
           "ocaml",
           "ocamlinterface"
         ],
-<<<<<<< HEAD
         "path": "./snippets/ocaml/ocaml.json"
       },
       {
@@ -580,10 +580,6 @@
       {
          "language": "loremipsum",
          "path": "./snippets/loremipsum.json"
-      },
-      {
-        "language": ["plaintex","tex"],
-        "path": "./snippets/shriansh-snippets/shriansh-latex.json"
       }
     ]
   }
