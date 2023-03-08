@@ -1,0 +1,17 @@
+{
+  "text": {
+    "prefix": "text",
+    "body": "\\text{${0:${TM_SELECTED_TEST}}}",
+    "description": "Insert plain text into equation"
+  },
+  "alignrow": {
+    "prefix": "&=",
+    "body": "&= $0 && \\text{$1} \\\\",
+    "description": "Insert new row in align"
+  },
+  "choose": {
+    "prefix": "choose",
+    "body": "{$0 \\choose $1}",
+    "description": "n \\choose k"
+  }
+}

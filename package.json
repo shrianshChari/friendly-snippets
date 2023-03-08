@@ -456,6 +456,13 @@
       {
         "language": "edge",
         "path": "./snippets/frameworks/edge.json"
+      },
+      {
+        "language": [
+          "plaintex",
+          "tex"
+        ],
+        "path": "./shriansh-snippets/latex.json"
       }
     ]
   }
