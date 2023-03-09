@@ -11,7 +11,7 @@
   },
   "alignrow2": {
     "prefix": "alr",
-    "body": "&= $0 && \\text{$1} \\\\",
+    "body": "&= $0 && \\text{$1} \\\\\\\\",
     "description": "Insert new row in align"
   },
   "choose": {
