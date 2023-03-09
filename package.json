@@ -525,6 +525,7 @@
         "language": "edge",
         "path": "./snippets/frameworks/edge.json"
 <<<<<<< HEAD
+<<<<<<< HEAD
       },
       {
         "language": ["powershell", "ps1"],
@@ -580,6 +581,13 @@
       {
          "language": "loremipsum",
          "path": "./snippets/loremipsum.json"
+      },
+      {
+        "language": [
+          "plaintex",
+          "tex"
+        ],
+        "path": "./snippets/my-snippets/latex.json"
       }
     ]
   }
