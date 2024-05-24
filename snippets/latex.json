@@ -1,80 +1,79 @@
 {
-	"item": {
-		"prefix": "item",
-		"body": "\n\\item ",
-		"description": "\\item on a newline"
-	},
-	"subscript": {
-		"prefix": "__",
-		"body": "_{${1:${TM_SELECTED_TEXT}}}",
-		"description": "subscript"
-	},
-	"superscript": {
-		"prefix": "**",
-		"body": "^{${1:${TM_SELECTED_TEXT}}}",
-		"description": "superscript"
-	},
-	"etc": {
-		"prefix": "...",
-		"body": "\\dots",
-		"description": "\\dots"
-	},
-	"cdot": {
-		"prefix": "@.",
-		"body": "\\cdot",
-		"description": "\\cdot"
-	},
-	"infinity": {
-		"prefix": "@8",
-		"body": "\\infty",
-		"description": "infinity symbol"
-	},
-	"partial": {
-		"prefix": "@6",
-		"body": "\\partial",
-		"description": "partial derivative symbol"
-	},
-	"fraction": {
-		"prefix": "@/",
-		"body": "\\frac{$1}{$2}$0",
-		"description": "fraction"
-	},
-	"fraction2": {
-		"prefix": "@%",
-		"body": "\\frac{$1}{$2}$0",
-		"description": "fraction"
-	},
-	"hat": {
-		"prefix": "@^",
-		"body": "\\hat{${1:${TM_SELECTED_TEXT}}}$0",
-		"description": "hat"
-	},
-	"bar": {
-		"prefix": "@_",
-		"body": "\\bar{${1:${TM_SELECTED_TEXT}}}$0",
-		"description": "bar"
-	},
-	"circ": {
-		"prefix": "@@",
-		"body": "\\circ",
-		"description": "circ"
-	},
-	"supcirc": {
-		"prefix": "@0",
-		"body": "^\\circ",
-		"description": "superscript circ"
-	},
-	"dot": {
-		"prefix": "@;",
-		"body": "\\dot{${1:${TM_SELECTED_TEXT}}}$0",
-		"description": "dot"
-	},
-	"ddot": {
-		"prefix": "@:",
-		"body": "\\ddot{${1:${TM_SELECTED_TEXT}}}$0",
-		"description": "ddot"
-	},
-
+    "item": {
+        "prefix": "item",
+        "body": "\n\\item ",
+        "description": "\\item on a newline"
+    },
+    "subscript": {
+        "prefix": "__",
+        "body": "_{${1:${TM_SELECTED_TEXT}}}",
+        "description": "subscript"
+    },
+    "superscript": {
+        "prefix": "**",
+        "body": "^{${1:${TM_SELECTED_TEXT}}}",
+        "description": "superscript"
+    },
+    "etc": {
+        "prefix": "...",
+        "body": "\\dots",
+        "description": "\\dots"
+    },
+    "cdot": {
+        "prefix": "@.",
+        "body": "\\cdot",
+        "description": "\\cdot"
+    },
+    "infinity": {
+        "prefix": "@8",
+        "body": "\\infty",
+        "description": "infinity symbol"
+    },
+    "partial": {
+        "prefix": "@6",
+        "body": "\\partial",
+        "description": "partial derivative symbol"
+    },
+    "fraction": {
+        "prefix": "@/",
+        "body": "\\frac{$1}{$2}$0",
+        "description": "fraction"
+    },
+    "fraction2": {
+        "prefix": "@%",
+        "body": "\\frac{$1}{$2}$0",
+        "description": "fraction"
+    },
+    "hat": {
+        "prefix": "@^",
+        "body": "\\hat{${1:${TM_SELECTED_TEXT}}}$0",
+        "description": "hat"
+    },
+    "bar": {
+        "prefix": "@_",
+        "body": "\\bar{${1:${TM_SELECTED_TEXT}}}$0",
+        "description": "bar"
+    },
+    "circ": {
+        "prefix": "@@",
+        "body": "\\circ",
+        "description": "circ"
+    },
+    "supcirc": {
+        "prefix": "@0",
+        "body": "^\\circ",
+        "description": "superscript circ"
+    },
+    "dot": {
+        "prefix": "@;",
+        "body": "\\dot{${1:${TM_SELECTED_TEXT}}}$0",
+        "description": "dot"
+    },
+    "ddot": {
+        "prefix": "@:",
+        "body": "\\ddot{${1:${TM_SELECTED_TEXT}}}$0",
+        "description": "ddot"
+    },
 	"equiv": {
 		"prefix": "@=",
 		"body": "\\equiv",
