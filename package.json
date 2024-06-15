@@ -582,7 +582,7 @@
       },
       {
         "language": ["plaintex","tex"],
-        "path": "./shriansh-snippets/latex.json"
+        "path": "./snippets/shriansh-snippets/latex.json"
       }
     ]
   }
