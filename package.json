@@ -542,6 +542,7 @@
           "ocaml",
           "ocamlinterface"
         ],
+<<<<<<< HEAD
         "path": "./snippets/ocaml/ocaml.json"
       },
       {
@@ -582,7 +583,7 @@
       },
       {
         "language": ["plaintex","tex"],
-        "path": "./snippets/shriansh-snippets/latex.json"
+        "path": "./snippets/shriansh-snippets/shriansh-latex.json"
       }
     ]
   }
